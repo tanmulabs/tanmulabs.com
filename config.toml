@@ -53,7 +53,7 @@ googleAnalytics = "UA-105872317-1"
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "https://blog.tanmulabs.com"
+        url = "http://blog.tanmulabs.com"
 
       [[params.links.list1.link]]
         text = "Email"
