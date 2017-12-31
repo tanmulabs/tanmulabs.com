@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "/"
+baseurl = "/"
 languageCode = "en-US"
 title = "Tanmu Labs"
 theme = "hugo-split-theme"
